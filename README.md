@@ -1,8 +1,8 @@
 ###  ProjectJavaSpringboot4
-Api java com Backend que realiza chamadas REST ao banco dados relacional,
+Api java com Backend que realiza chamadas REST ao banco dados relacional
 Com Documentação, Autenticação, Autorização e Teste.
 
-### 🔨 DEPENDENCIAS:
+### 🔨 DEPENDÊNCIAS:
 
 ### JAVA 17:
 spring-boot-starter-web
@@ -15,7 +15,7 @@ spring-boot-maven-plugin
 spring-boot-starter-test
 spring-security-test
 
-### Tratamento de erros, Validação exceptions, Usuarios e serviço de autenticação:
+### Tratamento de erros, Validação exceptions, Usuários e serviço de autenticação:
 spring-boot-starter-validation
 spring-boot-starter-security
 
